@@ -5,7 +5,7 @@ Bildpacket zur Sendung von MobileMacs Episode 097
 
 **Enthalten:** 
 - selbst erstellte Bildteile, 
-- kleines nini Video zum Apfel, 
+- kleines mini Video zum Apfel, 
 - SVG zum selber verarbeiten
 
 <a href="https://github.com/McCouman/mm079priv/blob/master/all-MM097-pack.rar?raw=true">Download Pack</a>
